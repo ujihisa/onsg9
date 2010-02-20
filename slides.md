@@ -105,7 +105,7 @@ Hello, world!
 
 ## 分かりやすくCで説明してみる
 
-    char str[14] = "Hello, world!\n";
+    char str[14] = "Hello, world!";
     int main() {
       puts(str);
       return 0;
