@@ -121,7 +121,7 @@ Hello, world!
 
 VimのquickrunはLLVMアセンブリ言語対応済み
 
-.llなファイルを編集中に`<Space>r`するだけでllvm-asとlliしてくれる
+.llなファイルを編集中に`<Leader>r`するだけでllvm-asとlliしてくれる
 
 ## LLVMの用途と目的
 
